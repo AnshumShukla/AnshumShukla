@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 [![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnshumShukla&theme=transparent&show_icons=true&hide_border=true&count_private=true&align)](https://github.com/anuraghazra/github-readme-stats)
-
+![GitHub metrics](https://metrics.lecoq.io/AnshumShukla)  
   
 ### Linguistics:
 
